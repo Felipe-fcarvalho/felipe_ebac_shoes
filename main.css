@@ -175,6 +175,10 @@ section p {
         display: block;
     }
 
+    .aboutGrid img {
+        margin-bottom: 24px;
+    }
+
     .cardProduto {
         margin: 52px 0;
     }
